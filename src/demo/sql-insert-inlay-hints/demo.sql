@@ -11,3 +11,6 @@ VALUES
     (pk3, fk3, val13, val23),
     (pk4, fk4, val14, val24),
     (pk5, fk5, val15, val25);
+
+INSERT INTO `notify` (`notify_id`, `notify_name`)
+VALUES (1, 'google_notify_record');
